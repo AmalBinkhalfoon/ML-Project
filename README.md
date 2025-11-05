@@ -1,1 +1,1 @@
-# ML-Project
+# arabic-handwriting-ocr
